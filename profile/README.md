@@ -2,7 +2,7 @@
 
 25 sistemas MVP para pequenas e médias empresas, feitos para você **clonar, personalizar com Claude Code ou Codex** e implantar para o seu cliente. Cada sistema é um repositório independente, com banco de dados, testes e documentação próprios.
 
-> **Estado atual:** 12 de 25 sistemas disponíveis (clique no nome do sistema para abrir o repositório). Os demais estão em desenvolvimento e **só ganham repositório depois de passar nos testes de qualidade e segurança**. Este material reduz tempo de desenvolvimento; não promete renda nem resultado comercial.
+> **Estado atual:** 13 de 25 sistemas disponíveis (clique no nome do sistema para abrir o repositório). Os demais estão em desenvolvimento e **só ganham repositório depois de passar nos testes de qualidade e segurança**. Este material reduz tempo de desenvolvimento; não promete renda nem resultado comercial.
 
 ## Como usar um sistema
 1. Escolha o sistema na lista abaixo e abra o repositório dele.
@@ -29,7 +29,7 @@
 | 10 | [**Gestão de Comissões**](https://github.com/pack-25-sistemas-ia/gestao-de-comissoes) | Planos de comissão por faixa com estornos e fechamentos rastreáveis | Gestão | ✅ [Disponível](https://github.com/pack-25-sistemas-ia/gestao-de-comissoes) |
 | 11 | [**Agendamento Online**](https://github.com/pack-25-sistemas-ia/agendamento-online) | Reserva pública com disponibilidade real, bloqueios e reagendamento | Operações | ✅ [Disponível](https://github.com/pack-25-sistemas-ia/agendamento-online) |
 | 12 | [**Central de Chamados**](https://github.com/pack-25-sistemas-ia/central-de-chamados) | Tickets com SLA, responsáveis, notas e métricas | Operações | ✅ [Disponível](https://github.com/pack-25-sistemas-ia/central-de-chamados) |
-| 13 | **Ordens de Serviço** | Ciclo completo da OS com checklist, peças, fotos e aceite simples | Operações | Em desenvolvimento |
+| 13 | [**Ordens de Serviço**](https://github.com/pack-25-sistemas-ia/ordens-de-servico) | Ciclo completo da OS com checklist, peças, fotos e aceite simples | Operações | ✅ [Disponível](https://github.com/pack-25-sistemas-ia/ordens-de-servico) |
 | 14 | **Gestão de Projetos** | Quadro Kanban por projeto com prazos, responsáveis e comentários | Operações | Em desenvolvimento |
 | 15 | **Gestão de Contratos** | Cadastro de contratos com arquivos, vencimentos e lembretes | Operações | Em desenvolvimento |
 | 16 | **Dashboard de Marketing** | Visão consolidada de custo, conversão, ROAS e CPL por importação CSV | Marketing | Em desenvolvimento |
